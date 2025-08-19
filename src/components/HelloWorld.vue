@@ -4,13 +4,11 @@
     
   <button class="btn btn-primary" type="button" disabled>
   <span class="spinner-border spinner-border-sm" aria-hidden="true"></span>
-  <span role="status">Loading...</span>
+  <span role="status">Cargando...</span>
 </button>
-  
   </div>
-
   <nav aria-label="...">
-  <ul class="pagination pagination-lg">
+  <ul class="pagination justify-content-end">
     <li class="page-item active" >
       <a class="page-link" aria-current="page">1</a>
     </li>
